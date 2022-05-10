@@ -1,6 +1,6 @@
-# KDD_2022_code
+# non-stationary_AB_test_code
 
-This code is for our KDD paper ``non-stationary AB testing''. Although there are several files, only the parameters are different and the main parts are the same. 
+This code is for our paper ``non-stationary AB testing''. Although there are several files, only the parameters are different and the main parts are the same. 
 
 The file ``ABtest_N=8000_T=100000.py'' is annotated, while others are not, so we strongly recommend to use this code for numerical experiments.
 
